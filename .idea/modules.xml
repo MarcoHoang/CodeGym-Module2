@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral-Design-Pattern/Behavioral-Design-Pattern.iml" filepath="$PROJECT_DIR$/Behavioral-Design-Pattern/Behavioral-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Binary-File-Serialization.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Binary-File-Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" />
@@ -150,6 +151,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" filepath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" filepath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Parctice23.iml" filepath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Parctice23.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" />
@@ -184,6 +186,7 @@
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/String-Regex.iml" filepath="$PROJECT_DIR$/String-Regex/String-Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" />
