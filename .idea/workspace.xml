@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Template-Method/src/template/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/Observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/src/main/ObserverDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/src/observer/BinObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/src/observer/HexObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/src/observer/OctObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral-Design-Pattern/Parctice23/Observer/src/subject/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,6 +152,7 @@
     "Application.SumColumn.executor": "Run",
     "Application.SumDiagonal.executor": "Run",
     "Application.SystemTime.executor": "Run",
+    "Application.TemplateMethodDemo.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestBST.executor": "Run",
     "Application.TestCircle.executor": "Run",
@@ -182,7 +189,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Behavioral-Design-Pattern/Parctice23/Template-Method/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Behavioral-Design-Pattern/Parctice23/Observer/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15429688",
     "project.structure.side.proportion": "0.2",
@@ -349,6 +356,7 @@
       <workItem from="1746493671749" duration="13366000" />
       <workItem from="1746580634316" duration="417000" />
       <workItem from="1746581093018" duration="4745000" />
+      <workItem from="1746605979797" duration="305000" />
     </task>
     <servers />
   </component>
